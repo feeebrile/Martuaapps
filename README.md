@@ -1,2 +1,2 @@
 # Martuaapps
-Aplikasi ini dirancang untuk mendeskripsikan diri 
+Aplikasi ini dirancang untuk mendeskripsikan diri saya
